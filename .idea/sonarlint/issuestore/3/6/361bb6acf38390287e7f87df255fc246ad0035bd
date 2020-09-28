@@ -1,0 +1,10 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "jsonData".(·õáÁÿÿÿÿÿ8€–µÔÊ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÛŒ’ÒÊ.
+O
+java:S1481"-Remove this unused "jsonData" local variable.(·õáÁÿÿÿÿÿ8€–µÔÊ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Â¶ò’8şê³ÔÊ.
+a
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(ï­£Ä8ÛŒ’ÒÊ.

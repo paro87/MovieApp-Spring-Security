@@ -1,0 +1,57 @@
+
+¦
+java:S1192t"ƒDefine a constant instead of duplicating this literal "45tMly6D4Nvf8Pjy416c4bYsBjzA9zyw6b/FVLWIRzFhPQOEe/WbvGftpZii7H9j\n" 3 times.(Í…ûÿÿÿÿ8ı¢ÇÀÊ.
+¡
+java:S1192v"ƒDefine a constant instead of duplicating this literal "dSucHm8KGNT7QdjQjkOTnZ8mA2kBwPPGpKhKHWrMLeYwOWyS6OjoWqJ1fnpO5CLe\n" 3 times.(Š²’à8ı¢ÇÀÊ.
+O
+java:S1481¦"1Remove this unused "publicKeyPEM" local variable.(’ŠÎ¼8ùÄÆÀÊ.
+c
+java:S2147"ECombine this catch with the one at line 139, which has the same body.(Ç¿¶8Ü×¤¾Ê.
+Q
+java:S1481Å".Remove this unused "publicKey" local variable.(™ÿ²üÿÿÿÿ8ı¢ÇÀÊ.
+¦
+java:S1192u"ƒDefine a constant instead of duplicating this literal "aUg8CnvqTZO2+BvZCN5xlo4GoHmIedRN7Ritn59oKWWYR5WiDP142j/uVwZ/eFeS\n" 3 times.(·ÿÄ¨ÿÿÿÿÿ8ı¢ÇÀÊ.
+S
+java:S1481Š"5Remove this unused "authenticatedJWT" local variable.(ÕÜ8Ü×¤¾Ê.
+c
+java:S2147‘"ECombine this catch with the one at line 139, which has the same body.(”ı¾8Ü×¤¾Ê.
+X	java:S1250"<This block of commented-out lines of code should be removed.(¡·ë·8ƒ±ª¾Ê.
+`
+java:S1854Å"=Remove this useless assignment to local variable "publicKey".(™ÿ²üÿÿÿÿ8ı¢ÇÀÊ.
+^
+java:S1854¦"@Remove this useless assignment to local variable "publicKeyPEM".(’ŠÎ¼8ùÄÆÀÊ.
+h
+java:S2147"ECombine this catch with the one at line 139, which has the same body.(½å€ùûÿÿÿÿ8Ü×¤¾Ê.
+¦
+java:S1192r"ƒDefine a constant instead of duplicating this literal "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmoJgWLoc6Pb9BXfrLe25\n" 3 times.(ÔÑßŠÿÿÿÿÿ8ı¢ÇÀÊ.
+a
+java:S1854E"DRemove this useless assignment to local variable "authenticatedJWT".(ÜÅ¾š8Ü×¤¾Ê.
+a
+java:S2147N"DCombine this catch with the one at line 74, which has the same body.(à®¿­8Ü×¤¾Ê.
+J
+java:S11446"-Remove this unused private "auth0jwt" method.(¯Ï³8ƒ±ª¾Ê.
+¡
+java:S1192w"ƒDefine a constant instead of duplicating this literal "4pPLbMD6XfDo0lg+f3E++GhP1Ti5zseFKrNdZva7TQOMarvDwwaq4U+QSCmTe/eP\n" 3 times.(ìúÊŒ8ı¢ÇÀÊ.
+R
+java:S1481Ÿ"5Remove this unused "authenticatedJWT" local variable.(°ñÅ8¾ß²ÀÊ.
+c
+java:S2147×"ECombine this catch with the one at line 213, which has the same body.(ï­£Ä8¥€ÆÀÊ.
+X	java:S1252"<This block of commented-out lines of code should be removed.(“Ï©Ş8éõøÑÊ.
+h
+java:S2147½"ECombine this catch with the one at line 187, which has the same body.(½å€ùûÿÿÿÿ8¥€ÆÀÊ.
+Y	java:S125²"<This block of commented-out lines of code should be removed.(÷ş¼É8¥€ÆÀÊ.
+¡
+java:S1192s"ƒDefine a constant instead of duplicating this literal "kM8nZG+78FKvu3G/hPmikP7+ToYVOx9B1QFGP50JLnL7bNG3/FiWp1v9FxlSDmOV\n" 3 times.(Ì½â8ı¢ÇÀÊ.
+a
+java:S1854Ÿ"DRemove this useless assignment to local variable "authenticatedJWT".(°ñÅ8¾ß²ÀÊ.
+d
+java:S2142Õ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¥€ÆÀÊ.
+R
+java:S1481E"5Remove this unused "authenticatedJWT" local variable.(ÜÅ¾š8Ü×¤¾Ê.
+J
+java:S1144—",Remove this unused private "javajvt" method.(Ú‰®8éõøÑÊ.
+f
+java:S2147L"DCombine this catch with the one at line 74, which has the same body.(æØ€…şÿÿÿÿ8Ü×¤¾Ê.
+b
+java:S1854Š"DRemove this useless assignment to local variable "authenticatedJWT".(ÕÜ8Ü×¤¾Ê.
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(™Ì†£şÿÿÿÿ8Ü×¤¾Ê.

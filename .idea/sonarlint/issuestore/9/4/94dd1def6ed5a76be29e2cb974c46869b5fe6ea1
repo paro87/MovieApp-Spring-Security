@@ -1,0 +1,11 @@
+
+L
+java:S1854"8Remove this useless assignment to local variable "body".(ýåº­
+>
+java:S3457"%String contains no format specifiers.(þê”Ëþÿÿÿÿ
+=
+java:S1481")Remove this unused "body" local variable.(ýåº­
+T	java:S125"<This block of commented-out lines of code should be removed.(Ý¥Ê»øÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ŽµÑ€ýÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(’æ«Ó
+T	java:S125"<This block of commented-out lines of code should be removed.(³Îû›üÿÿÿÿ

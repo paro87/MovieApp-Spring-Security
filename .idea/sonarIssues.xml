@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/GridCellEditorTextField">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.1!/java.base/java/util/Map.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.1!/java.net.http/java/net/http/HttpRequest.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/auth0/java-jwt/3.10.3/java-jwt-3.10.3.jar!/com/auth0/jwt/interfaces/Verification.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.jar!/javax/servlet/Filter.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.jar!/javax/servlet/http/HttpServletRequest.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MicroserviceSecurity/client-password-gt/src/main/resources/templates/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/Bcrypt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/controller/AuthenticationControllerV1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/dto/AuthenticationRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/model/BaseEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/model/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/model/Status.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/repository/RoleRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/repository/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/JwtUserDetailsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/jwt/JwtAuthenticationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/jwt/JwtAuthenticationExeption.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/jwt/JwtConfigurer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/jwt/JwtTokenFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/jwt/JwtTokenProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/jwt/JwtUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/security/jwt/JwtUserFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/java/tm/paro/jwtappdemo/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jwtappdemo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mercedes-app/src/main/java/tm/paro/mercedesapp/Controller/MercedesAppController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/auth.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/auth/ClientUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/auth/ClientUserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/auth/ClientUserDaoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/auth/ClientUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/config/AuthServerConfigProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/config/LoadBalanceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/config/MySecurityHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/controller/ClientController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/model/AuthenticationRequestUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/model/Resource/Actor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/model/Resource/Address.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/model/Resource/Director.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/model/Resource/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/java/tm/paro/clientmovieapp/service/ClientService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/curl/token_request.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/requests/rest-api.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/templates/dashboard.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/templates/directors.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/templates/login.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/templates/main.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/clientmovieapp/src/main/resources/templates/movie.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/JWTVerify.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/XMLparser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/config/LoadBalanceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/controller/DirectorController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/jwt/JWTAuthorizationFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/jwt/JWTVerify.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/jwt/JwtFilter3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/jwt/JwtTokenVerifier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/Account.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/AuthenticatedJWT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/ROLES.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/Realm_access.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/Realms.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/Resource_access.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/Roles.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/jwt/Ucayim.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/xml/Data.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/xml/Json.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/xml/JsonData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/xml/Record.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/model/xml/Records.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/security/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/java/tm/paro/resourceserver/security/UserPermissions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resourceserver/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../schoolapp/src/main/java/tm/paro/schoolapp/config/AuthServerConfigProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../schoolapp/src/main/java/tm/paro/schoolapp/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../schoolapp/src/main/java/tm/paro/schoolapp/controller/authorization/ApacheHttpClientController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../schoolapp/src/main/java/tm/paro/schoolapp/controller/authorization/JavaHttpClientController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../schoolapp/src/main/java/tm/paro/schoolapp/controller/authorization/Oauth2RestTemplateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../video-rental-shop-app/src/main/java/tm/paro/movieapp/config/security/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../video-rental-shop-app/src/main/java/tm/paro/movieapp/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/Claims.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/GoogleConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/GoogleProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/GoogleUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/NoopAuthenticationManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/OpenIdConnectFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/UserIdentity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/openid/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/profile/HomeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/profile/Profile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/profile/ProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/profile/ProfileRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/java/com/paro/cookbook5openidgoogleconnect/security/SecurityConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/resources/templates/form.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/resources/templates/home.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MicroserviceSecurityDemo/cookbook-5openid-google-connect/src/main/resources/templates/profile.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

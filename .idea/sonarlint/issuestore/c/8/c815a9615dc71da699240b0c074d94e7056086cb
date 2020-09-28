@@ -1,0 +1,10 @@
+
+q	java:S116 "URename this field "given_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Å×İ8«€“—Ê.
+q	java:S116"WRename this field "realm_access" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²¶øøÿÿÿÿ
+o	java:S116"ZRename this field "allowed_origins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¢¢­
+w	java:S116!"VRename this field "family_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç®ß¡şÿÿÿÿ8«€“—Ê.
+z	java:S116"YRename this field "email_verified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å´Óüÿÿÿÿ8«€“—Ê.
+]	java:S125"<This block of commented-out lines of code should be removed.(å±’îøÿÿÿÿ8û¥¾Ê.
+t	java:S116"ZRename this field "resource_access" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¬îãøÿÿÿÿ
+m	java:S116"XRename this field "session_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë×½Ä
+~	java:S116"]Rename this field "preferred_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ûãàûÿÿÿÿ8«€“—Ê.

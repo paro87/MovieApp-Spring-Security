@@ -1,0 +1,77 @@
+{
+	"info": {
+		"_postman_id": "7ab85fbd-9528-4e68-84d2-2d18b559499a",
+		"name": "MovieDirectorsApp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "JWT token request",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "cf06386d-5ea8-44e1-a68f-c3409c8a0618",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "ucayim",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "test34@mynkey.com",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "10SqfAr4mDd13aKms",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "password",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://sso-dev.mynkey.com/auth/realms/mynkey/protocol/openid-connect/token",
+					"protocol": "https",
+					"host": [
+						"sso-dev",
+						"mynkey",
+						"com"
+					],
+					"path": [
+						"auth",
+						"realms",
+						"mynkey",
+						"protocol",
+						"openid-connect",
+						"token"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

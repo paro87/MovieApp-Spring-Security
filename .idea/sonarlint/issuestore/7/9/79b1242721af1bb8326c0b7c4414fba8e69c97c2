@@ -1,0 +1,21 @@
+
+_
+java:S2147"DCombine this catch with the one at line 62, which has the same body.(À–„Å8ªÏ²³Ì.
+S
+java:S1854"8Remove this useless assignment to local variable "body".(ýåº­8ªÏ²³Ì.
+V	java:S125"<This block of commented-out lines of code should be removed.(’æ«Ó8³Ä»³Ì.
+d
+java:S2147"DCombine this catch with the one at line 62, which has the same body.(Èñý¥þÿÿÿÿ8ªÏ²³Ì.
+[	java:S125"<This block of commented-out lines of code should be removed.(ŽµÑ€ýÿÿÿÿ8ªÏ²³Ì.
+[	java:S125"<This block of commented-out lines of code should be removed.(³Îû›üÿÿÿÿ8ªÏ²³Ì.
+_
+java:S2147"DCombine this catch with the one at line 62, which has the same body.(ï­£Ä8ªÏ²³Ì.
+D
+java:S1481")Remove this unused "body" local variable.(ýåº­8ªÏ²³Ì.
+d
+java:S2147"DCombine this catch with the one at line 62, which has the same body.(‹µ×‡øÿÿÿÿ8ªÏ²³Ì.
+[	java:S125"<This block of commented-out lines of code should be removed.(Ý¥Ê»øÿÿÿÿ8ªÏ²³Ì.
+_
+java:S2147"DCombine this catch with the one at line 62, which has the same body.(º“ç½8ªÏ²³Ì.
+d
+java:S2147"DCombine this catch with the one at line 62, which has the same body.(¥¨›ýÿÿÿÿ8ªÏ²³Ì.

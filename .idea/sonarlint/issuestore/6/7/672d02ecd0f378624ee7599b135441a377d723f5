@@ -1,0 +1,55 @@
+
+o
+java:S1192À"QDefine a constant instead of duplicating this literal "application/json" 4 times.(«¾«è8éÁ¨ßÌ.
+h
+java:S2147ó"ECombine this catch with the one at line 241, which has the same body.(‡¤“Óûÿÿÿÿ8²Ğ¥àÌ.
+c
+java:S2147õ"ECombine this catch with the one at line 241, which has the same body.(ï­£Ä8²Ğ¥àÌ.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8¤ µŞÌ.
+P
+java:S1481ğ"-Remove this unused "response" local variable.(ÓúùÜÿÿÿÿÿ8²Ğ¥àÌ.
+k
+java:S1192Á"HDefine a constant instead of duplicating this literal "Bearer " 4 times.(üÔ²ƒûÿÿÿÿ8ß®ıŞÌ.
+c
+java:S2147‡"ECombine this catch with the one at line 259, which has the same body.(ï­£Ä8²Ğ¥àÌ.
+Z
+java:S1854‚"<Remove this useless assignment to local variable "response".(ÏäÚà8²Ğ¥àÌ.
+‡
+java:S1192½"iDefine a constant instead of duplicating this literal "http://localhost:8085/movieapp/director/" 4 times.(…Ú£”8²Ğ¥àÌ.
+]	java:S1259"<This block of commented-out lines of code should be removed.(Î…„øÿÿÿÿ8¤ µŞÌ.
+f
+java:S1192Q"IDefine a constant instead of duplicating this literal "password" 3 times.(Å¨°ï8¤ µŞÌ.
+c
+java:S2147Ş"ECombine this catch with the one at line 218, which has the same body.(ï­£Ä8²Ğ¥àÌ.
+K
+java:S1481‚"-Remove this unused "response" local variable.(ÏäÚà8²Ğ¥àÌ.
+g
+java:S2147f"ECombine this catch with the one at line 100, which has the same body.(‡¤“Óûÿÿÿÿ8¤ µŞÌ.
+_
+java:S1854ğ"<Remove this useless assignment to local variable "response".(ÓúùÜÿÿÿÿÿ8²Ğ¥àÌ.
+h
+java:S2147…"ECombine this catch with the one at line 259, which has the same body.(‡¤“Óûÿÿÿÿ8²Ğ¥àÌ.
+b
+java:S2147h"ECombine this catch with the one at line 100, which has the same body.(ï­£Ä8¤ µŞÌ.
+K
+java:S1481Ù"-Remove this unused "response" local variable.(Ë½¡à8²Ğ¥àÌ.
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ãê‚çÿÿÿÿÿ8²Ğ¥àÌ.
+R
+java:S1068,"5Remove this unused "clientUserService" private field.(©˜¢ƒ8ôÉÍŞÌ.
+z
+java:S2737‹"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ8¤ µŞÌ.
+Z
+java:S1854Ù"<Remove this useless assignment to local variable "response".(Ë½¡à8²Ğ¥àÌ.
+e
+java:S1192À"GDefine a constant instead of duplicating this literal "accept" 4 times.(«¾«è8éÁ¨ßÌ.
+q
+java:S1192Á"NDefine a constant instead of duplicating this literal "authorization" 4 times.(üÔ²ƒûÿÿÿÿ8éÁ¨ßÌ.
+h
+java:S2147Ü"ECombine this catch with the one at line 218, which has the same body.(‡¤“Óûÿÿÿÿ8²Ğ¥àÌ.
+\
+java:S1117I":Rename "client" which hides the field declared at line 63.(ÚÌ©„úÿÿÿÿ8ÅÆÁŞÌ.
+f
+java:S1854"CRemove this useless assignment to local variable "allDirectorsAPI".(æËà„ÿÿÿÿÿ8åöØùÌ.
+W
+java:S1481"4Remove this unused "allDirectorsAPI" local variable.(æËà„ÿÿÿÿÿ8åöØùÌ.
+Y	java:S125Ÿ"<This block of commented-out lines of code should be removed.(éÊÚ8åöØùÌ.

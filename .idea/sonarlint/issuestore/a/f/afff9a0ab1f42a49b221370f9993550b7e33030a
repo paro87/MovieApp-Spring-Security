@@ -1,0 +1,9 @@
+
+]	java:S125("<This block of commented-out lines of code should be removed.(ÕÚóÓüÿÿÿÿ8°–ÄöÌ.
+‚
+java:S1130 "lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(™¼ò¿
+G
+java:S1068$"*Remove this unused "LOGGER" private field.(İ¤ê8°–ÄöÌ.
+q
+java:S1192M"TDefine a constant instead of duplicating this literal "redirect:/directors" 3 times.(Ç÷˜—8Ë¸½öÌ.
+[	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(™¼ò¿

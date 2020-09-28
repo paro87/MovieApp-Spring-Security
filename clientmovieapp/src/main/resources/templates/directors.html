@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Client App: Authorization</title>
+    <link href="../static/css/bootstrap.css" rel="stylesheet" th:href="@{/css/bootstrap.css}"/>
+    <style>
+        body {
+            padding-top: 60px;
+        }
+        .navbar-inverse {
+            background-color: #222233;
+        }
+    </style>
+</head>
+<body class="py-1 pb-5">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid mx-5">
+        <p class="navbar-brand text-warning mx-5 my-0" >Mercedes App</p>
+    </div>
+
+</nav>
+<div class="container col-md-10 my-5">
+    <h1>DIRECTORS</h1>
+    <div class="container col-11" th:unless="${#lists.isEmpty(directors)}">
+
+        <div class="row justify-content-center">
+            <table class="container table-hover table-striped">
+                <thead class="thead-dark">
+                <tr>
+                    <th class="text-center" scope="col" style="width: 20%" >Name</th>
+                    <th class="text-center" scope="col" style="width: 20%">Surname</th>
+                    <th class="text-center" scope="col" style="width: 10%">Birth year</th>
+                    <th class="text-center" scope="col" style="width: 30%">Address</th>
+                    <th class="text-center" scope="col" style="width: 5%"></th>
+
+
+                </tr>
+                </thead>
+                <tr th:each="director : ${directors}">
+                    <td class="text-center" th:text="${director.directorId}">No id</td>
+                    <td th:text="${director.name}">No name</td>
+                    <td th:text="${director.surname}">No surname</td>
+                    <td th:text="${director.homeAddress}">No address</td>
+                    <!--The problem is I can't figure out how to add language param-->
+                    <!--<td><a href="#" th:href="@{/employers/(employer=${employer.id})}" class="badge badge-info">Düzet</a></td>-->
+                    <!--th:href="@{/classesTable/saveProfessor/{professorId}/{classesId} (professorId=${professor.id}, classesId=${classes.id})}"-->
+                    <td><a href="#" th:href="@{/directors/{director}(director=${director.directorId})}" class="badge badge-info">GET</a></td>
+                    <td><a href="#" th:href="@{/directors/{director}(director=${director.directorId})}" class="badge badge-info">UPDATE</a></td>
+                    <td><a href="#" th:href="@{/directors/{director}(director=${director.directorId})}" class="badge badge-info">DELETE</a></td>
+                </tr>
+            </table>
+        </div>
+
+</div>
+<div class="container">
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="../static/js/bootstrap.js" th:href="@{/js/bootstrap.js}"></script>
+</body>
+</html>
+
+
+
+

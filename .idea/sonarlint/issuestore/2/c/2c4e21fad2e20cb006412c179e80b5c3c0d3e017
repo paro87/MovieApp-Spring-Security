@@ -1,0 +1,30 @@
+
+L
+java:S37409"/Provide the parametrized type for this generic.(éıúß8Ù‡ÌùÌ.
+Y
+java:S18544"7Remove this useless assignment to local variable "str".(‚ä÷øÿÿÿÿ8â—ÆöÌ.
+Q
+java:S3740*"/Provide the parametrized type for this generic.(†°›¨şÿÿÿÿ8ŸÁÇõÌ.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÎÎÍ¢8âÄõõÌ.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÛÆÄÁøÿÿÿÿ8Ù‡ÌùÌ.
+u
+java:S41449"XUpdate this method so that its implementation is not identical to "postauth" on line 42.(éıúß8¢°ÌùÌ.
+J
+java:S1481C"(Remove this unused "str" local variable.(‚ä÷øÿÿÿÿ8Ù‡ÌùÌ.
+X	java:S125I"<This block of commented-out lines of code should be removed.(•¾ ×8é‹¾öÌ.
+J
+java:S14814"(Remove this unused "str" local variable.(‚ä÷øÿÿÿÿ8â—ÆöÌ.
+X	java:S125R"<This block of commented-out lines of code should be removed.(Äø©Ó8¤ç½öÌ.
+Y
+java:S1854C"7Remove this useless assignment to local variable "str".(‚ä÷øÿÿÿÿ8Ù‡ÌùÌ.
+^
+java:S1854Q"ARemove this useless assignment to local variable "tokenResponse".(ŞÄòº8óÓÂöÌ.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(ÎÎÍ¢8Ù‡ÌùÌ.
+Z
+java:S1854J"8Remove this useless assignment to local variable "auth".(¡œõµûÿÿÿÿ8¤ç½öÌ.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ÛÆÄÁøÿÿÿÿ8¤ç½öÌ.
+O
+java:S1481P"2Remove this unused "tokenResponse" local variable.(Ï­Íî8óÓÂöÌ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÛÆÄÁøÿÿÿÿ8ŸÁÇõÌ.
+K
+java:S1481J")Remove this unused "auth" local variable.(¡œõµûÿÿÿÿ8¤ç½öÌ.
